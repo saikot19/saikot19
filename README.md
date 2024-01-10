@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikot19
 - 👀 I’m interested in web designing and developing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Flutter
 - 📫 Contact me via Email: abidhasansaikot19@gmail.com
 
 <!---
